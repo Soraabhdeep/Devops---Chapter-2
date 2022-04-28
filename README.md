@@ -1,2 +1,2 @@
 # Devops---Chapter-2
-Created the Repo
+Created the Repository
